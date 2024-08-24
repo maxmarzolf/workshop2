@@ -1,0 +1,15 @@
+task1
+ec2-34-236-50-15.compute-1.amazonaws.com
+
+aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 267291839332.dkr.ecr.us-east-1.amazonaws.com
+267291839332.dkr.ecr.us-east-1.amazonaws.com/workshop2
+
+
+
+task2 (database endpoint)
+nctutorials.cn4028q6usb4.us-east-1.rds.amazonaws.com
+
+
+
+task6
+https://github.com/maxmarzolf/workshop2
