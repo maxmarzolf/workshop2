@@ -13,3 +13,8 @@ nctutorials.cn4028q6usb4.us-east-1.rds.amazonaws.com
 
 task6
 https://github.com/maxmarzolf/workshop2
+
+
+task 7
+
+git clone https://github.com/maxmarzolf/workshop2
